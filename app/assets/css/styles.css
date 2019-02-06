@@ -1,0 +1,102 @@
+#i1ffk {
+	min-height: 75px;
+}
+
+.navbar.navbar-expand-lg.navbar-dark.bg-dark.fixed-top {
+	background-color: rgb(38, 112, 185);
+}
+
+.c4285 {
+	min-height: 75px;
+}
+
+.brand {
+	font-size: 25px;
+	font-weight: 700;
+	color: rgb(255, 255, 255);
+}
+
+.c4540 {
+	min-height: 75px;
+}
+
+.c4610 {
+	min-height: 75px;
+}
+
+.c4633 {
+	min-height: 75px;
+}
+
+.c4695 {
+	min-height: 300px;
+	height: auto;
+}
+
+.col-xl-6.col-lg-6.col-md-6.col-sm-6.col-12 {
+	min-height: 75px;
+}
+
+.c5302 {
+	min-height: 200px;
+}
+
+.c5326 {
+	min-height: 200px;
+}
+
+.c2440 {
+	min-height: 75px;
+}
+
+.c2459 {
+	min-height: 75px;
+}
+
+.col-xl-5.col-lg-5.col-md-5.col-sm-5 {
+	padding-top: 0px;
+	padding-right: 15px;
+	padding-bottom: 0px;
+	padding-left: 15px;
+	float: none;
+	position: relative;
+}
+
+.c6091 {
+	min-height: 75px;
+}
+
+.fade.in {
+    opacity: 1;
+}
+
+.modal.in .modal-dialog {
+  -webkit-transform: translate(0, 0);
+       -o-transform: translate(0, 0);
+          transform: translate(0, 0);
+}
+
+.modal-backdrop.in {
+    filter: alpha(opacity=50);
+    opacity: .5;
+}
+
+
+.atc-btn-group :hover {
+	border:none;
+	background-color: grey;
+}
+
+.atc-btn-group {
+	border:none;
+	background-color: white;
+}
+
+.atc-btn-group::after { 
+	content: none;
+  }
+
+.atc-btn-group span{
+	margin-top: -14px;
+
+}

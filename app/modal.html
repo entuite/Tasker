@@ -1,0 +1,14 @@
+
+ <div ng-controller="taskCtrl">    
+    <div class="modal-header">
+        <h3 class="modal-title" id="modal-title">Please Take a Moment to Confirm</h3>
+    </div>
+    <div class="modal-body" id="modal-body">
+        <p>Are you sure about deleting this task!!</p>
+
+    </div>
+    <div class="modal-footer">
+    <button class="btn btn-primary" type="button" ng-click="ok(deleteIndex)">OK</button>
+    <button class="btn btn-warning" type="button" ng-click="closeModal()">Cancel</button>
+    </div>
+</div>
